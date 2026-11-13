@@ -191,4 +191,4 @@ This repository serves as the official landing page for Exercism CLI. The softwa
 **Get the most recent version of Exercism CLI today!**
 
 ---
-**Last updated:** 2026-11-13 14:07:13 UTC
+**Last updated:** 2026-11-13 21:14:23 UTC
